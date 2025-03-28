@@ -5,7 +5,6 @@ I'm not a total nerd, but on the side of my school work I love to write novels. 
 
 #### 📫 Get In Touch With Me
 - My Email: cpnguyen0000@gmail.com
-- My Phone Number: 720-380-5054
 - My Discord: midnightkaze
 <!--
 **MidnightKaze/MidnightKaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
