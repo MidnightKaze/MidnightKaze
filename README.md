@@ -1,5 +1,5 @@
 ### It's Nice to Meet You ヾ(•̀ ヮ <)و
-✨ Heyo I'm __Caitlyn Nguyen__! I'm a first year Computer Science student at Warren Tech Central and I'm also a Junior at Arvada West High School. I'm pretty interested in a lot of topics revolving around AI and Machine Learning, but since I'm pretty new to the CS field I'm open to learning almost anything. Aside from that I also love the hardware side of computers.
+✨ Heyo I'm __Caitlyn Nguyen__! I'm a first year Computer Science student at Warren Tech Central and I'm also a Senior at Arvada West High School. I also intern at School of Mine's ARIA Lab! I'm pretty interested in a lot of topics revolving around AI and Machine Learning, but since I'm pretty new to the CS field I'm open to learning almost anything. Aside from that I also love the hardware side of computers.
 
 I'm not a total nerd, but on the side of my school work I love to write novels. I'm currently working on quite a few right now ＿〆(。。)
 
